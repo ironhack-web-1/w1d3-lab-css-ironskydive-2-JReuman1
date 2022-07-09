@@ -4,7 +4,7 @@ html {
     font-family: Roboto;
     font-size: 10px;
     line-height: 3.5em;
-    font-weight: 300px;
+    font-weight: 300;
 }
 
 html, body {
@@ -142,4 +142,5 @@ h5 {
 
 .footer ul{
     list-style: none;
+    padding-inline-start: 0px;
 }
